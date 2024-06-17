@@ -8,6 +8,9 @@ public class Line {
         this.length = length;
     }
 
+    public static void printLine(int lineSize) {
+    }
+
     public void printLine(){
         System.out.println("----------------- Printing Line (" +  length  +")----------------");
         System.out.println(" ");
