@@ -1,3 +1,5 @@
+package figures;
+
 public class Square {
     public static void printSquare(int Size) {
         for (int i = 1; i < Size; i++) {
