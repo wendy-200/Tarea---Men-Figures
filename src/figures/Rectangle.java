@@ -1,3 +1,5 @@
+package figures;
+
 public class Rectangle {
     public static void main(String[] args) {
         System.out.println("Rectángulo de alto 3 y ancho 4:");

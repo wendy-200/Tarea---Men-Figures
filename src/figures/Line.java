@@ -1,3 +1,5 @@
+package figures;
+
 public class Line {
     private int length;
 

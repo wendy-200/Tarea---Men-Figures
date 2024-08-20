@@ -1,3 +1,7 @@
+import figures.Line;
+import figures.Rectangle;
+import figures.Square;
+
 import java.util.Scanner;
 
 public class Main {
@@ -39,3 +43,4 @@ public class Main {
         }
     }
 }
+
